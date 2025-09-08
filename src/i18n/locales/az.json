@@ -1,0 +1,346 @@
+{
+  "nav": {
+    "home": "Ana səhifə",
+    "tips": "Məsləhətlər",
+    "calculator": "Kalkulyator",
+    "statistics": "Statistika",
+    "contact": "Əlaqə"
+  },
+  "hero": {
+    "title": "Suyu Qoruyun, Gələcəyi Xilas Edin",
+    "subtitle": "Ən qiymətli resursumuzun qorunması hərəkatına qoşulun. Praktiki məsləhətlər kəşf edin, istifadənizi izləyin və dəyişiklik yaradın.",
+    "getStarted": "Başlayın",
+    "learnMore": "Ətraflı öyrənin",
+    "waterConservation": "Su Qorunması",
+    "ecoFriendly": "Ekoloji",
+    "moneySaving": "Pul Qənaəti"
+  },
+  "tips": {
+    "title": "Su Qənaəti Məsləhətləri",
+    "subtitle": "Evdə su qorumaq üçün sadə və təsirli yollar. Asan məsləhətlərlə başlayın və tədricən daha mürəkkəb texnikaları tətbiq edin.",
+    "fixLeaks": {
+      "title": "Sızan Kranları Təmir Edin",
+      "description": "Tək damcılayan kran ildə 11,000 litrdən çox su israf edə bilər. Bütün sızıntıları tez bir zamanda yoxlayın və təmir edin.",
+      "category": "Hamam",
+      "savings": "10%-ə qədər"
+    },
+    "shorterShowers": {
+      "title": "Daha Qısa Duş Alın",
+      "description": "Duş vaxtını cəmi 2 dəqiqə azaltmaqla ayda 570 litrə qədər qənaət edin.",
+      "category": "Hamam",
+      "savings": "25%-ə qədər"
+    },
+    "lowFlowFixtures": {
+      "title": "Az Axın Avadanlıqları Quraşdırın",
+      "description": "Köhnə duş başlıqlarını və kranları su qənaətli modellərlə əvəz edin.",
+      "category": "Hamam",
+      "savings": "30%-ə qədər"
+    },
+    "dishwasher": {
+      "title": "Qabyuyan Maşını Dolu Halda İşlədin",
+      "description": "Su səmərəliliyini artırmaq üçün qabyuyan maşınını yalnız tamamilə dolu olduqda işlədin.",
+      "category": "Mətbəx",
+      "savings": "15%-ə qədər"
+    },
+    "garden": {
+      "title": "Bağı Səmərəli Suvarlayın",
+      "description": "Buxarlanmanı azaltmaq üçün bitkiləri erkən səhər və ya axşam suvarlayın və damcı suvarma sistemlərindən istifadə edin.",
+      "category": "Bağ",
+      "savings": "50%-ə qədər"
+    },
+    "laundry": {
+      "title": "Paltaryuyan Maşını Ağılla İstifadə Edin",
+      "description": "Dolu yükləri yuyun və mümkün olduqda su və enerjiyə qənaət etmək üçün soyuq sudan istifadə edin.",
+      "category": "Camaşır",
+      "savings": "20%-ə qədər"
+    },
+    "difficulty": {
+      "easy": "Asan",
+      "medium": "Orta",
+      "advanced": "İrəli səviyyə"
+    },
+    "save": "Qənaət"
+  },
+  "calculator": {
+    "title": "Su İstifadəsi Kalkulyatoru",
+    "subtitle": "Evinizin su istehlakını hesablayın və potensial qənaəti kəşf edin",
+    "householdInfo": "Ev Məlumatları",
+    "householdSize": "Ev Ölçüsü",
+    "people": "nəfər",
+    "showerTime": "Orta Duş Vaxtı",
+    "minutes": "dəqiqə",
+    "dishwasherUses": "Həftəlik Qabyuyan İstifadəsi",
+    "laundryLoads": "Həftəlik Camaşır Yükləri",
+    "waterRate": "Su Tarifi (₼ ton başına)",
+    "hasEfficientFixtures": "Su qənaətli avadanlıqlarım var",
+    "yourUsage": "Su İstifadəniz",
+    "dailyUsage": "Günlük İstifadə",
+    "monthlyUsage": "Aylıq İstifadə",
+    "yearlyUsage": "İllik İstifadə",
+    "monthlyCost": "Aylıq Xərc",
+    "yearlyCost": "İllik Xərc",
+    "gallons": "litr",
+    "liters": "litr",
+    "tons": "ton",
+    "potentialSavings": "Potensial İllik Qənaət",
+    "savingsMessage": "Su qənaətli avadanlıqlar quraşdırmaqla su hesabınızda 30%-ə qədər qənaət edə bilərsiniz!"
+  },
+  "statistics": {
+    "title": "Su Qorunması Təsiri",
+    "subtitle": "Qlobal su böhranını və fərdi fəaliyyətin gücünü anlamaq",
+    "globalCrisis": "Qlobal Su Böhranı",
+    "globalDescription": "İnsanların evdə təhlükəsiz idarə olunan içməli suya çıxışı yoxdur",
+    "dailyUsageTitle": "Günlük Su İstifadəsi",
+    "dailyUsageDescription": "ABŞ-da adam başına gündə istifadə olunan litr",
+    "conservationTitle": "Su Qorunması",
+    "conservationDescription": "Səmərəli avadanlıqlarla mümkün orta qənaət",
+    "householdImpact": "Ev Təsiri",
+    "householdDescription": "Qorunma şüurlu ailəsi tərəfindən ildə qənaət edilən litr",
+    "everyDrop": "Hər Damla Sayılır",
+    "everyDropDescription": "Gündəlik vərdişlərimizdəki kiçik dəyişikliklər əhəmiyyətli su qənaətinə gətirib çıxara bilər. Su şüurlu təcrübələri mənimsəməklə, gələcək nəsillər üçün bu qiymətli resursu qoruya bilərik.",
+    "lackBasicServices": "İnsanlar əsas su xidmətlərindən məhrumdur",
+    "savedAnnually": "ABŞ evləri tərəfindən ildə qənaət edilən litr",
+    "avgSavings": "Ev başına orta illik qənaət"
+  },
+  "contact": {
+    "title": "Əlaqə Saxlayın",
+    "subtitle": "Su qorunması haqqında suallarınız var? Uğur hekayənizi paylaşmaq istəyirsiniz? Sizdən eşitmək istərdik!",
+    "name": "Adınız",
+    "email": "E-mail Ünvanı",
+    "subject": "Mövzu",
+    "message": "Mesaj",
+    "send": "Mesaj Göndərin",
+    "sending": "Göndərilir...",
+    "successMessage": "Mesajınız üçün təşəkkür edirik! Tezliklə sizə cavab verəcəyik.",
+    "joinCommunity": "Su Qorunması İcmasına Qoşulun",
+    "communityDescription": "Davamlı gələcək üçün işləyən həmfikir şəxs və təşkilatlarla əlaqə qurun.",
+    "newsletter": "Xəbər Bülleteni",
+    "newsletterDescription": "Aylıq məsləhətlər və yeniliklər",
+    "community": "İcma",
+    "communityFeatureDescription": "Təcrübələri paylaşın və öyrənin",
+    "support": "Dəstək",
+    "supportDescription": "Ekspert məsləhəti və rəhbərlik",
+    "validation": {
+      "nameRequired": "Ad tələb olunur",
+      "emailRequired": "E-mail tələb olunur",
+      "emailInvalid": "E-mail yanlışdır",
+      "subjectRequired": "Mövzu tələb olunur",
+      "messageRequired": "Mesaj tələb olunur"
+    }
+  },
+  "footer": {
+    "description": "Fərdləri və icmaları suyu qorumaq və davamlı gələcək yaratmaq üçün gücləndirir. Birlikdə hər damlanın sayılmasını təmin edə bilərik.",
+    "quickLinks": "Sürətli Keçidlər",
+    "resources": "Resurslar",
+    "links": {
+      "home": "Ana səhifə",
+      "waterTips": "Su Məsləhətləri",
+      "calculator": "Kalkulyator",
+      "statistics": "Statistika",
+      "aboutUs": "Haqqımızda",
+      "conservationGuide": "Su Qorunması Bələdçisi",
+      "efficiencyPrograms": "Səmərəlilik Proqramları",
+      "rebates": "Güzəştlər və Təşviqlər",
+      "news": "Xəbərlər və Yeniliklər",
+      "contactSupport": "Əlaqə Dəstəyi"
+    },
+    "copyright": "AquaSave. Bütün hüquqlar qorunur.",
+    "policies": {
+      "privacy": "Məxfilik Siyasəti",
+      "terms": "Xidmət Şərtləri",
+      "cookies": "Kukilər Siyasəti"
+    },
+    "environmentalMessage": "Bu veb-sayt su qorunması təhsili və fəaliyyəti vasitəsilə ekoloji davamlılığı təşviq etməyə sadiqdir."
+  },
+  "dashboard": {
+    "title": "Su Monitorinq Paneli",
+    "timeRange": "Zaman Aralığı",
+    "waterMeter": "Su Sayğacı",
+    "simulateLeak": "Sızıntı Simulyasiyası",
+    "aggressiveSaving": "Aqressiv Qənaət",
+    "timeRanges": {
+      "24h": "Son 24 Saat",
+      "7d": "Son 7 Gün",
+      "30d": "Son 30 Gün"
+    },
+    "meters": {
+      "main": "Əsas Su Sayğacı",
+      "kitchen": "Mətbəx Sayğacı",
+      "bathroom": "Hamam Sayğacı"
+    },
+    "kpis": {
+      "todayUsage": "Bugünkü İstifadə",
+      "monthlyUsage": "Bu Ay",
+      "monthlyForecast": "Proqnoz (Ay Sonu)",
+      "savingsVsLastMonth": "Keçən Ayla Müqayisədə Qənaət"
+    },
+    "chart": {
+      "title": {
+        "hourly": "Saatlıq İstifadə (Son 24s)",
+        "daily": "Günlük İstifadə (Son 7 gün)",
+        "weekly": "Həftəlik İstifadə (Son 30 gün)"
+      },
+      "yAxis": {
+        "hourly": "İstifadə (L/saat)",
+        "daily": "İstifadə (L/gün)",
+        "weekly": "İstifadə (L/həftə)"
+      },
+      "tooltip": {
+        "time": "Vaxt",
+        "date": "Tarix",
+        "period": "Dövr",
+        "usage": "İstifadə"
+      }
+    },
+    "alerts": {
+      "title": "Aktiv Xəbərdarlıqlar",
+      "type": "Növ",
+      "severity": "Ciddiyət",
+      "startedAt": "Başlama Vaxtı",
+      "status": "Status",
+      "actions": "Əməliyyatlar",
+      "acknowledge": "Təsdiq Et",
+      "close": "Bağla",
+      "details": "Xəbərdarlıq Detalları",
+      "criticalLeak": "Kritik sızıntı aşkar edildi! Su sisteminizi dərhal yoxlayın.",
+      "startedLabel": "Başlanğıc",
+      "severityLabel": "Ciddiyət",
+      "messages": {
+        "unusualFlow": "Hamam bölgəsində qeyri-adi axın nümunəsi aşkar edildi",
+        "monthlyApproaching": "Aylıq istifadə hədəf limitinə yaxınlaşır",
+        "meterCalibration": "Sayğacın kalibrasiyası gələn həftə planlaşdırılıb",
+        "majorLeak": "Böyük sızıntı aşkar edildi - dərhal tədbir tələb olunur"
+      },
+      "types": {
+        "leak": "Sızıntı Aşkarlanması",
+        "usage": "İstifadə Xəbərdarlığı",
+        "maintenance": "Texniki Xidmət",
+        "criticalLeak": "Kritik Sızıntı"
+      },
+      "severities": {
+        "low": "AŞAĞI",
+        "medium": "ORTA",
+        "high": "YÜKSƏK",
+        "critical": "KRİTİK"
+      },
+      "statuses": {
+        "active": "AKTİV",
+        "acknowledged": "TƏSDİQLƏNDİ",
+        "resolved": "HƏLLOLİNDİ"
+      }
+    },
+    "explanations": {
+      "forecastEom": "Hazırkı istehlak nümunələrinə əsaslanan ay sonu proqnozu"
+    }
+  },
+  "landing": {
+    "hero": {
+      "title": "myGov daxilində real vaxt ağıllı su monitorinqi.",
+      "titleHighlight": "Az xərcləyin, çox qənaət edin.",
+      "subtitle": "AI sızıntıları aşkar edir, aylıq istifadəni proqnozlaşdırır və su qənaət vərdişləri yaratmaqda kömək edir.",
+      "openDashboard": "Demo Paneli Aç",
+      "howItWorks": "Necə İşləyir"
+    },
+    "benefits": {
+      "title": "Əsas Faydalar",
+      "subtitle": "AI əsaslı analitika və real vaxt monitorinqi ilə su idarəetməsinin gələcəyini yaşayın",
+      "realTimeMonitoring": {
+        "title": "Real Vaxt Monitorinqi",
+        "description": "15 dəqiqəlik intervallarla ani sızıntı aşkarlanması və axın anomaliyası xəbərdarlıqları"
+      },
+      "aiDetection": {
+        "title": "AI Anomaliya Aşkarlanması",
+        "description": "Maşın öyrənməsi qeyri-adi nümunələri müəyyən edir və potensial problemləri proqnozlaşdırır"
+      },
+      "forecasts": {
+        "title": "Proqnozlar və Hədəflər",
+        "description": "Aylıq istifadə proqnozları və fərdiləşdirilmiş qənaət hədəfləri"
+      },
+      "notifications": {
+        "title": "myGov Bildirişləri",
+        "description": "myGov platforması vasitəsilə email, SMS və push bildirişləri - əlavə tətbiq lazım deyil"
+      }
+    },
+    "howItWorks": {
+      "title": "Necə İşləyir",
+      "meterNetwork": {
+        "title": "Sayğac → Şəbəkə",
+        "description": "LoRaWAN/NB-IoT bağlantısı real vaxt məlumatları buludlu sistemə göndərir"
+      },
+      "cloudProcessing": {
+        "title": "Bulud və AI Emalı",
+        "description": "Qabaqcıl alqoritmlər məlumatları təsdiqləyir, anomaliyalar aşkar edir və proqnozlar yaradır"
+      },
+      "myGovIntegration": {
+        "title": "myGov İnteqrasiyası",
+        "description": "Analitika, xəbərdarlıqlar və qənaət tövsiyələri ilə təhlükəsiz panel"
+      }
+    },
+    "proof": {
+      "title": "Faydalılığın Sübutu",
+      "subtitle": "Ağıllı su monitorinqinin real təsiri",
+      "reduction": {
+        "value": "6%",
+        "description": "Ev təsərrüfatı su istifadəsində orta azalma (pilot demo rəqəmi)"
+      },
+      "saved": {
+        "value": "300+",
+        "description": "Tipik ailə mənzili üçün ayda qənaət edilən litr (simulyasiya edilmiş)"
+      },
+      "detection": {
+        "value": "24s",
+        "description": "Sızıntı aşkarlanma vaxtı həftələrdən → saatlara qədər azaldılıb (simulyasiya edilmiş)"
+      },
+      "developer": {
+        "title": "💻 Tərtibatçı Önizləməsi",
+        "subtitle": "Real vaxt məlumat daxil edilməsi və istifadə cavabı:"
+      }
+    },
+    "ai": {
+      "title": "AI Zəka Sistemi",
+      "subtitle": "Qabaqcıl maşın öyrənmə alqoritmləri real vaxtda su istifadə nümunələrinizi təhlil edir",
+      "diagram": {
+        "meter": "Ağıllı Sayğac",
+        "cloud": "Bulud Emalı",
+        "aiEngine": "AI Mühərrik",
+        "myGov": "myGov Platforması"
+      },
+      "cards": {
+        "leakDetection": {
+          "title": "Sızıntı Aşkarlanması",
+          "description": "Gizli sızıntıları göstərən davamlı kiçik axınları tapır",
+          "detail": "15+ dəqiqə ərzində 0.1 L/dəq qədər axınları aşkar edir"
+        },
+        "usagePrediction": {
+          "title": "İstifadə Təsnifatı",
+          "description": "Su istifadəsini ehtimal təhlili ilə mənbəyə görə təsnif edir",
+          "detail": "Duş: 85% | Tualet: 60% | Mətbəx: 40%"
+        },
+        "forecasting": {
+          "title": "Ağıllı Proqnozlaşdırma",
+          "description": "Ay sonuna qədər istifadəni güvən intervalları ilə proqnozlaşdırır",
+          "detail": "Proqnoz: 2,450L ± 150L (95% güvən)"
+        },
+        "nudges": {
+          "title": "Fərdi Məsləhətlər",
+          "description": "Xüsusi istifadə nümunələrinizə əsaslanan AI yaradılmış məsləhətlər",
+          "detail": "Duşu 2 dəq azaldın → 180L/ay qənaət"
+        }
+      }
+    },
+    "deviceMockup": {
+      "dailyUsage": "Günlük İstifadə (24s)",
+      "waterFlowRate": "Su Axın Sürəti (L/dəq)",
+      "leakDetected": "Sızıntı Aşkarlandı",
+      "leakMessage": "Daimi aşağı axın aşkarlandı - hamam sahəsində ehtimal olunan sızıntı",
+      "highPriority": "Yüksək Prioritet",
+      "savingTip": "💡 Su Qənaət Məsləhəti",
+      "reduceBehavior": "Duş vaxtını 1 dəqiqə azaldın",
+      "estimatedImpact": "Təxmin edilən təsir: həftədə 45L qənaət",
+      "monthlySavings": "15% Aylıq Qənaət"
+    }
+  },
+  "common": {
+    "language": "Dil"
+  }
+}

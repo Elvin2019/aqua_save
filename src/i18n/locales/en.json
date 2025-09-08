@@ -1,0 +1,346 @@
+{
+  "nav": {
+    "home": "Home",
+    "tips": "Tips",
+    "calculator": "Calculator",
+    "statistics": "Statistics",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Save Water, Save Future",
+    "subtitle": "Join the movement to conserve our most precious resource. Discover practical tips, track your usage, and make a difference.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "waterConservation": "Water Conservation",
+    "ecoFriendly": "Eco-Friendly",
+    "moneySaving": "Money Saving"
+  },
+  "tips": {
+    "title": "Water Saving Tips",
+    "subtitle": "Simple and effective ways to conserve water at home. Start with easy tips and gradually implement more advanced techniques.",
+    "fixLeaks": {
+      "title": "Fix Leaky Faucets",
+      "description": "A single dripping faucet can waste over 11,000 liters per year. Check and repair all leaks promptly.",
+      "category": "Bathroom",
+      "savings": "Up to 10%"
+    },
+    "shorterShowers": {
+      "title": "Take Shorter Showers",
+      "description": "Reduce shower time by just 2 minutes to save up to 570 liters per month.",
+      "category": "Bathroom",
+      "savings": "Up to 25%"
+    },
+    "lowFlowFixtures": {
+      "title": "Install Low-Flow Fixtures",
+      "description": "Replace old showerheads and faucets with water-efficient models.",
+      "category": "Bathroom",
+      "savings": "Up to 30%"
+    },
+    "dishwasher": {
+      "title": "Run Full Dishwasher Loads",
+      "description": "Only run your dishwasher when it's completely full to maximize water efficiency.",
+      "category": "Kitchen",
+      "savings": "Up to 15%"
+    },
+    "garden": {
+      "title": "Water Garden Efficiently",
+      "description": "Water plants early morning or evening to reduce evaporation and use drip irrigation systems.",
+      "category": "Garden",
+      "savings": "Up to 50%"
+    },
+    "laundry": {
+      "title": "Use Washing Machine Wisely",
+      "description": "Wash full loads and use cold water when possible to save both water and energy.",
+      "category": "Laundry",
+      "savings": "Up to 20%"
+    },
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "advanced": "Advanced"
+    },
+    "save": "Save"
+  },
+  "calculator": {
+    "title": "Water Usage Calculator",
+    "subtitle": "Calculate your household's water consumption and discover potential savings",
+    "householdInfo": "Household Information",
+    "householdSize": "Household Size",
+    "people": "people",
+    "showerTime": "Average Shower Time",
+    "minutes": "minutes",
+    "dishwasherUses": "Dishwasher Uses Per Week",
+    "laundryLoads": "Laundry Loads Per Week",
+    "waterRate": "Water Rate (₼ per ton)",
+    "hasEfficientFixtures": "I have water-efficient fixtures",
+    "yourUsage": "Your Water Usage",
+    "dailyUsage": "Daily Usage",
+    "monthlyUsage": "Monthly Usage",
+    "yearlyUsage": "Yearly Usage",
+    "monthlyCost": "Monthly Cost",
+    "yearlyCost": "Yearly Cost",
+    "gallons": "liters",
+    "liters": "liters",
+    "tons": "tons",
+    "potentialSavings": "Potential Annual Savings",
+    "savingsMessage": "By installing water-efficient fixtures, you could save up to 30% on your water bill!"
+  },
+  "statistics": {
+    "title": "Water Conservation Impact",
+    "subtitle": "Understanding the global water crisis and the power of individual action",
+    "globalCrisis": "Global Water Crisis",
+    "globalDescription": "People lack access to safely managed drinking water at home",
+    "dailyUsageTitle": "Daily Water Usage",
+    "dailyUsageDescription": "Liters used per person per day in the US",
+    "conservationTitle": "Water Conservation",
+    "conservationDescription": "Average savings possible with efficient fixtures",
+    "householdImpact": "Household Impact",
+    "householdDescription": "Liters saved annually by a conservation-conscious family",
+    "everyDrop": "Every Drop Counts",
+    "everyDropDescription": "Small changes in our daily habits can lead to significant water savings. By adopting water-conscious practices, we can preserve this precious resource for future generations while reducing our environmental footprint.",
+    "lackBasicServices": "People lack basic water services",
+    "savedAnnually": "Liters saved annually by US households",
+    "avgSavings": "Average annual savings per household"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions about water conservation? Want to share your success story? We'd love to hear from you!",
+    "name": "Your Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Thank you for your message! We'll get back to you soon.",
+    "joinCommunity": "Join the Water Conservation Community",
+    "communityDescription": "Connect with like-minded individuals and organizations working towards a more sustainable future.",
+    "newsletter": "Newsletter",
+    "newsletterDescription": "Monthly tips and updates",
+    "community": "Community",
+    "communityFeatureDescription": "Share experiences and learn",
+    "support": "Support",
+    "supportDescription": "Expert advice and guidance",
+    "validation": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "subjectRequired": "Subject is required",
+      "messageRequired": "Message is required"
+    }
+  },
+  "footer": {
+    "description": "Empowering individuals and communities to conserve water and create a sustainable future. Together, we can make every drop count.",
+    "quickLinks": "Quick Links",
+    "resources": "Resources",
+    "links": {
+      "home": "Home",
+      "waterTips": "Water Tips",
+      "calculator": "Calculator",
+      "statistics": "Statistics",
+      "aboutUs": "About Us",
+      "conservationGuide": "Water Conservation Guide",
+      "efficiencyPrograms": "Efficiency Programs",
+      "rebates": "Rebates & Incentives",
+      "news": "News & Updates",
+      "contactSupport": "Contact Support"
+    },
+    "copyright": "AquaSave. All rights reserved.",
+    "policies": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    },
+    "environmentalMessage": "This website is committed to promoting environmental sustainability through water conservation education and action."
+  },
+  "dashboard": {
+    "title": "Water Monitoring Dashboard",
+    "timeRange": "Time Range",
+    "waterMeter": "Water Meter",
+    "simulateLeak": "Simulate Leak",
+    "aggressiveSaving": "Aggressive Saving",
+    "timeRanges": {
+      "24h": "Last 24 Hours",
+      "7d": "Last 7 Days",
+      "30d": "Last 30 Days"
+    },
+    "meters": {
+      "main": "Main Water Meter",
+      "kitchen": "Kitchen Meter",
+      "bathroom": "Bathroom Meter"
+    },
+    "kpis": {
+      "todayUsage": "Today's Usage",
+      "monthlyUsage": "This Month",
+      "monthlyForecast": "Forecast (EOM)",
+      "savingsVsLastMonth": "Savings vs Last Month"
+    },
+    "chart": {
+      "title": {
+        "hourly": "Hourly Usage (Last 24h)",
+        "daily": "Daily Usage (Last 7 days)",
+        "weekly": "Weekly Usage (Last 30 days)"
+      },
+      "yAxis": {
+        "hourly": "Usage (L/hour)",
+        "daily": "Usage (L/day)",
+        "weekly": "Usage (L/week)"
+      },
+      "tooltip": {
+        "time": "Time",
+        "date": "Date",
+        "period": "Period",
+        "usage": "Usage"
+      }
+    },
+    "alerts": {
+      "title": "Active Alerts",
+      "type": "Type",
+      "severity": "Severity",
+      "startedAt": "Started At",
+      "status": "Status",
+      "actions": "Actions",
+      "acknowledge": "Acknowledge",
+      "close": "Close",
+      "details": "Alert Details",
+      "criticalLeak": "Critical leak detected! Check your water system immediately.",
+      "startedLabel": "Started",
+      "severityLabel": "Severity",
+      "messages": {
+        "unusualFlow": "Unusual flow pattern detected in bathroom area",
+        "monthlyApproaching": "Monthly usage approaching target limit",
+        "meterCalibration": "Meter calibration due next week",
+        "majorLeak": "Major leak detected - immediate action required"
+      },
+      "types": {
+        "leak": "Leak Detection",
+        "usage": "Usage Alert",
+        "maintenance": "Maintenance",
+        "criticalLeak": "Critical Leak"
+      },
+      "severities": {
+        "low": "LOW",
+        "medium": "MEDIUM",
+        "high": "HIGH",
+        "critical": "CRITICAL"
+      },
+      "statuses": {
+        "active": "ACTIVE",
+        "acknowledged": "ACKNOWLEDGED",
+        "resolved": "RESOLVED"
+      }
+    },
+    "explanations": {
+      "forecastEom": "End of Month forecast based on current consumption patterns"
+    }
+  },
+  "landing": {
+    "hero": {
+      "title": "Real-time smart water monitoring inside myGov.",
+      "titleHighlight": "Spend less, save more.",
+      "subtitle": "AI detects leaks, projects monthly usage, and nudges you to build water-saving habits.",
+      "openDashboard": "Open Demo Dashboard",
+      "howItWorks": "How It Works"
+    },
+    "benefits": {
+      "title": "Core Benefits",
+      "subtitle": "Experience the future of water management with AI-powered insights and real-time monitoring",
+      "realTimeMonitoring": {
+        "title": "Real-time Monitoring",
+        "description": "15-minute intervals with instant leak detection and flow anomaly alerts"
+      },
+      "aiDetection": {
+        "title": "AI Anomaly Detection",
+        "description": "Machine learning identifies unusual patterns and predicts potential issues"
+      },
+      "forecasts": {
+        "title": "Forecasts & Goals",
+        "description": "Monthly usage projections and personalized conservation targets"
+      },
+      "notifications": {
+        "title": "myGov Notifications",
+        "description": "Email, SMS, and push notifications through myGov platform - no extra app needed"
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "meterNetwork": {
+        "title": "Meter → Network",
+        "description": "LoRaWAN/NB-IoT connectivity sends real-time data to the cloud"
+      },
+      "cloudProcessing": {
+        "title": "Cloud & AI Processing",
+        "description": "Advanced algorithms validate data, detect anomalies, and generate forecasts"
+      },
+      "myGovIntegration": {
+        "title": "myGov Integration",
+        "description": "Secure dashboard with insights, alerts, and conservation recommendations"
+      }
+    },
+    "proof": {
+      "title": "Proof of Usefulness",
+      "subtitle": "Real impact from smart water monitoring",
+      "reduction": {
+        "value": "6%",
+        "description": "Average reduction in household water use (pilot demo figure)"
+      },
+      "saved": {
+        "value": "300+",
+        "description": "Liters saved per month for a typical family apartment (simulated)"
+      },
+      "detection": {
+        "value": "24h",
+        "description": "Leak time-to-detect cut from weeks → hours (simulated)"
+      },
+      "developer": {
+        "title": "💻 Developer Preview",
+        "subtitle": "Real-time data ingestion and usage response:"
+      }
+    },
+    "ai": {
+      "title": "AI-Powered Intelligence",
+      "subtitle": "Advanced machine learning algorithms analyze your water usage patterns in real-time",
+      "diagram": {
+        "meter": "Smart Meter",
+        "cloud": "Cloud Processing",
+        "aiEngine": "AI Engine",
+        "myGov": "myGov Platform"
+      },
+      "cards": {
+        "leakDetection": {
+          "title": "Leak Detection",
+          "description": "Finds continuous small flows that indicate hidden leaks",
+          "detail": "Detects flows as low as 0.1 L/min for 15+ minutes"
+        },
+        "usagePrediction": {
+          "title": "Usage Classification",
+          "description": "Classifies water usage by source with probability analysis",
+          "detail": "Showers: 85% | Toilets: 60% | Kitchen: 40%"
+        },
+        "forecasting": {
+          "title": "Smart Forecasting",
+          "description": "Projects end-of-month usage with confidence intervals",
+          "detail": "Predicted: 2,450L ± 150L (95% confidence)"
+        },
+        "nudges": {
+          "title": "Personalized Nudges",
+          "description": "AI-generated tips based on your specific usage patterns",
+          "detail": "Reduce shower by 2 min → save 180L/month"
+        }
+      }
+    },
+    "deviceMockup": {
+      "dailyUsage": "Daily Usage (24h)",
+      "waterFlowRate": "Water Flow Rate (L/min)",
+      "leakDetected": "Leak Detected",
+      "leakMessage": "Persistent low flow detected - likely leak in bathroom area",
+      "highPriority": "High Priority",
+      "savingTip": "💡 Save Water Tip",
+      "reduceBehavior": "Reduce shower time by 1 minute",
+      "estimatedImpact": "Estimated impact: 45L saved per week",
+      "monthlySavings": "15% Monthly Savings"
+    }
+  },
+  "common": {
+    "language": "Language"
+  }
+}
